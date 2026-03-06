@@ -7,7 +7,7 @@ function App() {
 
   const getMoodMusic = async () => {
     try {
-      const res = await axios.post("http://localhost:5000/mood", {
+      const res = await axios.post("https://youtube-recommendation-5aw2.onrender.com/mood", {
         text: text,
       });
 
