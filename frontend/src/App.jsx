@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div style={{ textAlign: "center", padding: "40px" }}>
-      <h1>YouTube Mood Music 🎵</h1>
+      <h1>YouTube Mood Music RECOMMENDER 🎵</h1>
 
       <input
         type="text"
